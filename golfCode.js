@@ -1,5 +1,6 @@
 var name = ["Hole-in-one!", "Eagle", "Birdie", "Par", "Bogey", "Double Bogey", "Go Home!"]
 //Array for the different stroke names
+
 function golfScore(par, strokes) {
 //Function created golf score where par is set and strokes
     if (strokes == 1) {
